@@ -20,3 +20,12 @@ The Library Management System is designed to simplify the process of managing a 
 **6. Reports and Analytics:** Generate reports on book borrowing patterns, user activity, and inventory status to aid in library management.
 
 **7. Version Control:** 
+
+**Installation Instructions**
+
+**1. Clone the Repository:**
+
+git clone https://github.com/heysudhuu/library-Management-System-Searching.git
+cd library-Management-System-Searching
+
+
