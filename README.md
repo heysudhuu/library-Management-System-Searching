@@ -29,5 +29,13 @@ The Library Management System is designed to simplify the process of managing a 
 git clone [https://github.com/heysudhuu/library-Management-System-Searching.git]
 cd library-Management-System-Searching
 
-### **2. Install Dependencies: Ensure you have Node.js installed. Run the following command to install the required dependencies:
+Install Dependencies
+
+Using npm:
+
+```bash
+npm eun migrate
+
+
+
 
