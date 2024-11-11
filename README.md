@@ -26,7 +26,7 @@ The Library Management System is designed to simplify the process of managing a 
 ### **1. Clone the Repository:**
 
 '''bash
-git clone https://github.com/heysudhuu/library-Management-System-Searching.git
+git clone [https://github.com/heysudhuu/library-Management-System-Searching.git]
 cd library-Management-System-Searching
 
 
